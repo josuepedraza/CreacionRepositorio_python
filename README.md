@@ -10,7 +10,11 @@ realizar cambios y verificar repositorio local
 
 cargamos de nuevo el repositorio para memorizar los pasos
 
-### Tercer prueba
+### Tercera prueba
 
 data <- c(1,3,5,7,9)
 data
+
+### 4 Prueba
+
+Hacemos lo contrario cargar de git hub a mi repositorio local
